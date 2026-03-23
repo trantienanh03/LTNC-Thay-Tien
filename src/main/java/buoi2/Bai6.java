@@ -27,11 +27,10 @@ public class Bai6 {
         return triangle;
     }
 
+//    option: lam thanh tam giac can
+
     public static void main(String[] args) {
-        int[][] matrix = {
-                {1, 2, 3, 4},
-                {5, 6, 7, 8},
-        };
+        int[][] matrix = {{1, 2, 3, 4}, {5, 6, 7, 8},};
         printMatrix(matrix);
 
         int[][] res = createPascalTriangle(5);
