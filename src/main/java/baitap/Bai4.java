@@ -1,4 +1,4 @@
-package buoi2;
+package baitap;
 
 public class Bai4 {
 

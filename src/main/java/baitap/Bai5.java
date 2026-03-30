@@ -1,4 +1,4 @@
-package buoi2;
+package baitap;
 
 public class Bai5 {
     public static boolean isPrime(int n) {
